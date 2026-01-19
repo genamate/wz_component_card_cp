@@ -2,7 +2,7 @@ sap.ui.define(["sap/ui/integration/Designtime"
 ], function (Designtime) {
 	"use strict";
 
-	var Configuration = Designtime.extend("sap.workzone.cpkg.card.sample.Configuration");
+	var Configuration = Designtime.extend("deloitte.workzone.cpkg.card.componentcard.Configuration");
 	Configuration.prototype.create = function () {
 		return {
 			form: {

@@ -5,7 +5,7 @@ sap.ui.define(["sap/ui/integration/Extension"], function (Extension) {
 	//please delete this file if it is not needed.
 	//to enable the usage of an extenstion, add a extension entry in the manifest "sap.card": { "extension": "ext/extension", ...}
 
-	var CardExtension = Extension.extend("sap.workzone.cpkg.card.sample.ext.extension");
+	var CardExtension = Extension.extend("deloitte.workzone.cpkg.card.componentcard.ext.extension");
 
 	CardExtension.prototype.init = function () {
 		Extension.prototype.init.apply(this, arguments);

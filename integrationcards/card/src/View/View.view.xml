@@ -2,7 +2,7 @@
 		  xmlns="sap.m" xmlns:html="http://www.w3.org/1999/xhtml"
 		  width="100%"
 		  displayBlock="true"
-		  controllerName="sap.workzone.cpkg.card.sample.View.Main">
+		  controllerName="deloitte.workzone.cpkg.card.componentcard.View.Main">
 
 	<Carousel ariaLabelledBy="carouselTitle"  loop="true">
 		<Image src="https://photographylife.com/wp-content/uploads/2019/07/ZooSamples-8.jpg" alt="Example picture of speakers" />

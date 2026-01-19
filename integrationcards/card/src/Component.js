@@ -3,7 +3,7 @@ sap.ui.define([
 ], function (UIComponent) {
 	"use strict";
 
-	var Component = UIComponent.extend("sap.workzone.cpkg.card.sample.Component", {
+	var Component = UIComponent.extend("deloitte.workzone.cpkg.card.componentcard.Component", {
 		metadata: {
 			manifest: "json"
 		}

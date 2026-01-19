@@ -1,7 +1,7 @@
 {
 	"_version": "1.18.0",
 	"sap.app": {
-		"id": "sap.workzone.cpkg.card.sample",
+		"id": "deloitte.workzone.cpkg.card.componentcard",
 		"type": "card",
 		"i18n": "i18n/i18n.properties",
 		"title": "{{TITLE}}",
@@ -20,7 +20,7 @@
 	},
 	"sap.ui5": {
 		"rootView": {
-			"viewName": "sap.workzone.cpkg.card.sample.View.View",
+			"viewName": "deloitte.workzone.cpkg.card.componentcard.View.View",
 			"type": "XML",
 			"async": true,
 			"id": "app"
